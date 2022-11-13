@@ -1,0 +1,15 @@
+Index: src/test1/HelloWorld.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/test1/HelloWorld.java	(revision 33065ec17571ef3e43ef0e31aefa1d728b6b2016)
++++ src/test1/HelloWorld.java	(date 1668355738359)
+@@ -5,7 +5,5 @@
+         System.out.println("Hello World!");
+         System.out.println("Hello World!");
+         System.out.println("Hello World!");
+-        System.out.println("Hello World!");
+-        System.out.println("Hello World!");
+     }
+ }
